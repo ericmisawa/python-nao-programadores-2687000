@@ -14,7 +14,7 @@ print("A idade de Paloma é", resumo[23:25])
 
 # Imprima na tela o trecho final da variável
 
-print("O trecho final é", resumo[31:])
+print("O trecho final é:", resumo[31:])
 
 # Converta todos as letras para minúsculo e imprima na tela
 
